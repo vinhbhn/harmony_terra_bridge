@@ -1,0 +1,6 @@
+[submodule "bridge-web-app"]
+	path = bridge-web-app
+	url = https://github.com/vinhbhn/bridge-web-app.git
+[submodule "shuttle"]
+	path = shuttle
+	url = https://github.com/vinhbhn/shuttle.git
